@@ -15,8 +15,8 @@ export default function DirectorSection() {
             transition={{ duration: 1, ease: [0.76, 0, 0.24, 1] as [number, number, number, number] }}
           >
             <img
-              src="/imagenes/drothon/ceo.png"
-              alt="Dr. Othon V. Delgadillo — Director & CEO"
+              src="/imagenes/sodes/logo.png"
+              alt="SODES — Director"
               className="director__photo"
             />
             {/* Accent frame */}
@@ -36,7 +36,7 @@ export default function DirectorSection() {
             </motion.span>
 
             <RevealText tag="h2" className="director__name">
-              Dr. Othon V. Delgadillo
+              Director(a) Pendiente
             </RevealText>
 
             <motion.div
@@ -46,11 +46,11 @@ export default function DirectorSection() {
               viewport={{ once: true }}
               transition={{ delay: 0.3, duration: 0.6 }}
             >
-              <span className="director__credential">Implantes y Estética</span>
+              <span className="director__credential">Odontología Especializada</span>
               <span className="director__credential-dot" />
-              <span className="director__credential">Odontología General</span>
+              <span className="director__credential">Servicios Integrales</span>
               <span className="director__credential-dot" />
-              <span className="director__credential">Boutique Dental</span>
+              <span className="director__credential">Alta Especialidad</span>
             </motion.div>
 
             <motion.blockquote
@@ -60,10 +60,7 @@ export default function DirectorSection() {
               viewport={{ once: true }}
               transition={{ delay: 0.4, duration: 0.7 }}
             >
-              "Nuestra visión es ser un referente dentro del sector de la odontología,
-              tanto por la calidad de nuestro trabajo como el trato humano. Buscamos
-              mantener la salud bucal y mejorar la estética, para favorecer la calidad
-              de vida de miles de personas."
+              "Servicios odontológicos especializados con un equipo de profesionales comprometidos con la salud bucal y el bienestar de cada paciente. La excelencia es nuestro estándar."
             </motion.blockquote>
 
             <motion.div
@@ -107,8 +104,8 @@ export default function DirectorSection() {
               transition={{ delay: 0.8, duration: 0.8 }}
             >
               <div className="director__signature-line" />
-              <span className="director__signature-name">Dr. Othon V. Delgadillo</span>
-              <span className="director__signature-role">Director — Dr. Othón Boutique Dental</span>
+              <span className="director__signature-name">Director(a) Pendiente</span>
+              <span className="director__signature-role">Director — SODES Odontología Especializada</span>
             </motion.div>
           </div>
         </div>

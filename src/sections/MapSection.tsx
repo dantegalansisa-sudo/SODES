@@ -29,7 +29,7 @@ export default function MapSection() {
           <div className="map-section__info">
             <div className="map-section__detail">
               <span className="map-section__detail-label">Dirección</span>
-              <span className="map-section__detail-value">Plaza Lia, Naco</span>
+              <span className="map-section__detail-value">Calle Santo Domingo no. 11, edif. Cordero IV local 1-E.</span>
               <span className="map-section__detail-value" style={{ color: 'rgba(255,255,255,0.4)' }}>Santo Domingo, República Dominicana</span>
             </div>
             <div className="map-section__detail">
@@ -40,8 +40,8 @@ export default function MapSection() {
             </div>
             <div className="map-section__detail">
               <span className="map-section__detail-label">Contacto</span>
-              <a href="https://instagram.com/drothon_boutiquedental" target="_blank" rel="noopener noreferrer" className="map-section__detail-value map-section__link">@drothon_boutiquedental</a>
-              <a href="https://wa.me/message/HL77R3SXVOVRK1" target="_blank" rel="noopener noreferrer" className="map-section__detail-value map-section__link">WhatsApp Directo</a>
+              <a href="https://instagram.com/sodesrd" target="_blank" rel="noopener noreferrer" className="map-section__detail-value map-section__link">@sodesrd</a>
+              <a href="https://wa.me/18098322557" target="_blank" rel="noopener noreferrer" className="map-section__detail-value map-section__link">WhatsApp Directo</a>
             </div>
           </div>
 
@@ -54,7 +54,7 @@ export default function MapSection() {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Ubicación Dr. Othón Boutique Dental"
+              title="Ubicación SODES Odontología Especializada"
             />
           </div>
         </motion.div>

@@ -3,22 +3,22 @@ import RevealText from '../components/RevealText';
 
 const doctors = [
   {
-    name: 'Dr. Rolando Álvarez',
-    specialty: 'Especialista en Periodoncia e Implantes Dentales',
-    bio: 'Experto en tratamientos periodontales e implantología dental avanzada.',
-    img: '/imagenes/drothon/dr-rolando.png',
+    name: 'Especialista Pendiente',
+    specialty: 'Especialidad Pendiente',
+    bio: 'Foto y datos del especialista pendientes de actualización.',
+    img: '/imagenes/sodes/logo.png',
   },
   {
-    name: 'Dra. Paola S. Berlanger',
-    specialty: 'Odontóloga',
-    bio: 'Especialista en odontología general y atención integral al paciente.',
-    img: '/imagenes/drothon/dra-paola.png',
+    name: 'Especialista Pendiente',
+    specialty: 'Especialidad Pendiente',
+    bio: 'Foto y datos del especialista pendientes de actualización.',
+    img: '/imagenes/sodes/logo.png',
   },
   {
-    name: 'Dra. Angie Capellán',
-    specialty: 'Especialista en Prótesis Dental',
-    bio: 'Experta en rehabilitación protésica y restauraciones dentales.',
-    img: '/imagenes/drothon/dra-angie.png',
+    name: 'Especialista Pendiente',
+    specialty: 'Especialidad Pendiente',
+    bio: 'Foto y datos del especialista pendientes de actualización.',
+    img: '/imagenes/sodes/logo.png',
   },
 ];
 

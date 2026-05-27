@@ -2,12 +2,12 @@ import { motion } from 'framer-motion';
 import RevealText from '../components/RevealText';
 
 const patientImages = [
-  { src: '/imagenes/drothon/paciente-1.png', alt: 'Paciente feliz', label: 'Sonrisas Reales' },
-  { src: '/imagenes/drothon/paciente-2.png', alt: 'Paciente satisfecho', label: 'Resultados' },
-  { src: '/imagenes/drothon/paciente-3.png', alt: 'Paciente contento', label: 'Confianza' },
-  { src: '/imagenes/drothon/paciente-4.png', alt: 'Tratamiento exitoso', label: 'Tratamientos' },
-  { src: '/imagenes/drothon/paciente-1.png', alt: 'Paciente sonriendo', label: 'Satisfacción' },
-  { src: '/imagenes/drothon/paciente-2.png', alt: 'Resultado dental', label: 'Excelencia' },
+  { src: '/imagenes/sodes/logo.png', alt: 'Paciente feliz — Foto pendiente', label: 'Sonrisas Reales' },
+  { src: '/imagenes/sodes/logo.png', alt: 'Paciente satisfecho — Foto pendiente', label: 'Resultados' },
+  { src: '/imagenes/sodes/logo.png', alt: 'Paciente contento — Foto pendiente', label: 'Confianza' },
+  { src: '/imagenes/sodes/logo.png', alt: 'Tratamiento exitoso — Foto pendiente', label: 'Tratamientos' },
+  { src: '/imagenes/sodes/logo.png', alt: 'Paciente sonriendo — Foto pendiente', label: 'Satisfacción' },
+  { src: '/imagenes/sodes/logo.png', alt: 'Resultado dental — Foto pendiente', label: 'Excelencia' },
 ];
 
 const containerVariants = {

@@ -33,8 +33,7 @@ export default function HeroSection() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.2, duration: 1, ease: [0.76, 0, 0.24, 1] }}
         >
-          <span className="hero__brand-name">Dr. Othón</span>
-          <span className="hero__brand-name hero__brand-name--accent">Dental</span>
+          <img src="/imagenes/sodes/logo.png" alt="SODES - Odontología Especializada" style={{ maxHeight: '110px', maxWidth: '300px', width: 'auto', objectFit: 'contain' }} />
         </motion.div>
 
         <motion.div

@@ -84,7 +84,7 @@ function Navbar() {
     <>
       <nav className={`navbar${scrolled ? ' scrolled' : ''}`}>
         <a href="/" className="navbar__logo">
-          <img src="/imagenes/drothon/logo.png" alt="Dr. Othón Boutique Dental" className="navbar__logo-img" style={{ height: '50px', width: 'auto' }} />
+          <img src="/imagenes/sodes/logo.png" alt="SODES - Odontología Especializada" className="navbar__logo-img" style={{ height: '50px', width: 'auto' }} />
         </a>
 
         <ul className="navbar__links">
